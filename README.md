@@ -1,4 +1,4 @@
-# openfoamT
+# openfoam
 這是在Ubuntu20.04使用obsidian撰寫
 
 希望可以把openfoam的中文教學完成
