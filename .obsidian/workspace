@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lid-driven cavity flow/變化/增加網格數量/向量(精細網格版).md",
+            "file": "Lid-driven cavity flow/變化/加權網格/INTRO.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 183.5
   },
   "right": {
     "id": "33dc0d1bfcb7ec95",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lid-driven cavity flow/變化/增加網格數量/向量(精細網格版).md",
+                "file": "Lid-driven cavity flow/變化/加權網格/INTRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "49c11e76df1e5d91",
   "lastOpenFiles": [
-    "Lid-driven cavity flow/變化/增加網格數量/向量(精細網格版).md",
-    "Lid-driven cavity flow/變化/增加網格數量/在背景運行.md",
+    "Lid-driven cavity flow/變化/加權網格/INTRO.md",
+    "Lid-driven cavity flow/變化/增加網格數量/圖像化.md",
     "Lid-driven cavity flow/變化/增加網格數量/匯入原有條件至新專案.md",
     "Lid-driven cavity flow/變化/增加網格數量/生成更密的網格.md",
     "Lid-driven cavity flow/變化/增加網格數量/速度＆壓力場映射至新專案.md",
     "Lid-driven cavity flow/變化/增加網格數量/時間參數調整.md",
-    "Lid-driven cavity flow/變化/增加網格數量/圖像化.md",
-    "Lid-driven cavity flow/後處理.md",
-    "Lid-driven cavity flow/變化/增加網格數量/Untitled.md",
-    "Lid-driven cavity flow/觀看網格.md"
+    "Lid-driven cavity flow/變化/增加網格數量/向量(精細網格版).md",
+    "Lid-driven cavity flow/變化/增加網格數量/在背景運行.md",
+    "Lid-driven cavity flow/變化/增加網格數量/INTRO.md",
+    "Lid-driven cavity flow/變化/加權網格/Untitled.md"
   ]
 }
