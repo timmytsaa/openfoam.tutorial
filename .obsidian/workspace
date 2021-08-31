@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6049be13e6126ee6",
+        "id": "1cd349187a97e5b1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "平板應力分析(中間有洞)/前處理/邊界及初始條件.md",
+            "file": "平板應力分析(中間有洞)/前處理/物理性質.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "33dc0d1bfcb7ec95",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "平板應力分析(中間有洞)/前處理/邊界及初始條件.md",
+                "file": "平板應力分析(中間有洞)/前處理/物理性質.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6049be13e6126ee6",
+  "active": "1cd349187a97e5b1",
   "lastOpenFiles": [
     "平板應力分析(中間有洞)/前處理/Untitled.md",
+    "平板應力分析(中間有洞)/前處理/邊界及初始條件.md",
     "平板應力分析(中間有洞)/前處理/生成網格(平板應力分析).md",
+    "photo/平板應力分析1.png",
+    "平板應力分析2.png",
+    "平板應力分析1.png",
     "平板應力分析(中間有洞)/INTRO.md",
     "Lid-driven cavity flow/前處理.md",
     "Lid-driven cavity flow/INTRO(Lid-driven cavity flow).md",
-    "Lid-driven cavity flow/變化/高雷諾數流體/INTRO.md",
-    "Lid-driven cavity flow/前處理筆記/生成網格.md",
-    "Lid-driven cavity flow/前處理筆記/邊界及初始條件.md",
-    "plateHole-blockMeshDict2.png",
-    "plateHole-blockMeshDict1.png"
+    "Lid-driven cavity flow/變化/高雷諾數流體/INTRO.md"
   ]
 }
