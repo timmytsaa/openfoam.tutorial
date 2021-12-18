@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "平板應力分析(中間有洞)/前處理/物理性質.md",
+            "file": "平板應力分析(中間有洞)/前處理/數值方案.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 190
   },
   "right": {
     "id": "33dc0d1bfcb7ec95",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "平板應力分析(中間有洞)/前處理/物理性質.md",
+                "file": "平板應力分析(中間有洞)/前處理/數值方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1cd349187a97e5b1",
   "lastOpenFiles": [
-    "平板應力分析(中間有洞)/前處理/Untitled.md",
-    "平板應力分析(中間有洞)/前處理/邊界及初始條件.md",
-    "平板應力分析(中間有洞)/前處理/生成網格(平板應力分析).md",
-    "photo/平板應力分析1.png",
-    "平板應力分析2.png",
-    "平板應力分析1.png",
+    "平板應力分析(中間有洞)/前處理/數值方案.md",
+    "流線.md",
     "平板應力分析(中間有洞)/INTRO.md",
+    "平板應力分析(中間有洞)/前處理/熱性質.md",
+    "平板應力分析(中間有洞)/前處理/控制.md",
+    "數值方案.md",
     "Lid-driven cavity flow/前處理.md",
-    "Lid-driven cavity flow/INTRO(Lid-driven cavity flow).md",
-    "Lid-driven cavity flow/變化/高雷諾數流體/INTRO.md"
+    "Lid-driven cavity flow/觀看網格.md",
+    "Lid-driven cavity flow/啟用解法器.md",
+    "README.md"
   ]
 }
